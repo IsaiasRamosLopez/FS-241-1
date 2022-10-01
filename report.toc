@@ -2,6 +2,7 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Objetivos}{1}{section.1}%
 \contentsline {section}{\numberline {2}Fundamento teórico}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Fomas de Electrización}{1}{subsection.2.1}%
 \contentsline {section}{\numberline {3}Equipos y Materiales}{1}{section.3}%
 \contentsline {section}{\numberline {4}Procedimiento Experimental}{1}{section.4}%
 \contentsline {section}{\numberline {5}Procedimiento de Datos Experimentados}{1}{section.5}%
