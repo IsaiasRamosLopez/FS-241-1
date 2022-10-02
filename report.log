@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.25)  30 SEP 2022 23:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.25)  2 OCT 2022 09:39
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1413,7 +1413,11 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (report.aux (Files/cover.aux)
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- (Files/part_i.aux))
+ (Files/part_i.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+))
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 829.
@@ -1562,22 +1566,68 @@ LaTeX Info: Redefining \% on input line 2.
 ]
 \openout2 = `Files/part_i.aux'.
 
- (Files/part_i.tex)
-LaTeX Info: Redefining \sptext on input line 842.
-LaTeX Info: Redefining \. on input line 842.
-LaTeX Info: Redefining \% on input line 842.
+ (Files/part_i.tex
+<Images/img1.jpg, id=90, 371.13657pt x 238.64156pt>
+File: Images/img1.jpg Graphic file (type jpg)
+<use Images/img1.jpg>
+Package pdftex.def Info: Images/img1.jpg  used on input line 24.
+(pdftex.def)             Requested size: 355.65944pt x 228.69272pt.
+LaTeX Info: Redefining \sptext on input line 45.
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
  [1
 
 
-]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 847.
- (C:\Program Files\MiKTeX\tex/latex/base\t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-Overfull \hbox (0.15746pt too wide) in paragraph at lines 847--847
-[]\T1/cmr/m/n/10.95 James Watson y Fran-cis Crick. ``Mo-le-cu-lar struc-tu-re of nu-cleic acids''. En: \T1/cmr/m/it/10.95 Na-tu-re \T1/cmr/m/n/10.95 171.4356
+ <./Images/img1.jpg>]
+<Images/img2.jpg, id=106, 240.14719pt x 234.1247pt>
+File: Images/img2.jpg Graphic file (type jpg)
+<use Images/img2.jpg>
+Package pdftex.def Info: Images/img2.jpg  used on input line 59.
+(pdftex.def)             Requested size: 227.62204pt x 221.91704pt.
+<Images/img3.jpg, id=107, 238.64156pt x 238.64156pt>
+File: Images/img3.jpg Graphic file (type jpg)
+<use Images/img3.jpg>
+Package pdftex.def Info: Images/img3.jpg  used on input line 65.
+(pdftex.def)             Requested size: 227.62204pt x 227.62216pt.
+LaTeX Info: Redefining \sptext on input line 69.
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+ [2 <./Images/img2.jpg>]
+LaTeX Info: Redefining \sptext on input line 117.
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
+ [3 <./Images/img3.jpg>]
+<Images/img4.JPG, id=120, 401.24907pt x 224.33812pt>
+File: Images/img4.JPG Graphic file (type jpg)
+<use Images/img4.JPG>
+Package pdftex.def Info: Images/img4.JPG  used on input line 120.
+(pdftex.def)             Requested size: 284.52756pt x 159.08948pt.
+<Images/img5.JPG, id=121, 418.56375pt x 205.5178pt>
+File: Images/img5.JPG Graphic file (type jpg)
+<use Images/img5.JPG>
+Package pdftex.def Info: Images/img5.JPG  used on input line 125.
+(pdftex.def)             Requested size: 284.52756pt x 139.70322pt.
+<Images/img6.JPG, id=122, 373.395pt x 527.72156pt>
+File: Images/img6.JPG Graphic file (type jpg)
+<use Images/img6.JPG>
+Package pdftex.def Info: Images/img6.JPG  used on input line 131.
+(pdftex.def)             Requested size: 227.62204pt x 321.70032pt.
+LaTeX Info: Redefining \sptext on input line 161.
+LaTeX Info: Redefining \. on input line 161.
+LaTeX Info: Redefining \% on input line 161.
+ [4 <./Images/img4.JPG> <./Images/img5.JPG>]
+Overfull \hbox (5.32082pt too wide) in paragraph at lines 164--171
+ [][] 
  []
 
+LaTeX Info: Redefining \sptext on input line 173.
+LaTeX Info: Redefining \. on input line 173.
+LaTeX Info: Redefining \% on input line 173.
+[5 <./Images/img6.JPG>])
+LaTeX Info: Redefining \sptext on input line 842.
+LaTeX Info: Redefining \. on input line 842.
+LaTeX Info: Redefining \% on input line 842.
+ [6]
 
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 165.
 See the caption package documentation for explanation.
@@ -1586,18 +1636,10 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[listing] on input line 166.
 See the caption package documentation for explanation.
 
-
-Package caption Warning: Unused \captionsetup[figure] on input line 167.
-See the caption package documentation for explanation.
-
-
-Package caption Warning: Unused \captionsetup[table] on input line 168.
-See the caption package documentation for explanation.
-
 LaTeX Info: Redefining \sptext on input line 848.
 LaTeX Info: Redefining \. on input line 848.
 LaTeX Info: Redefining \% on input line 848.
-[2
+[7
 
 
 ] (report.aux (Files/cover.aux)
@@ -1605,22 +1647,25 @@ LaTeX Info: Redefining \sptext on input line 28.
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
  (Files/part_i.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package logreq Info: Writing requests to 'report.run.xml'.
 \openout1 = `report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50818 strings out of 475389
- 1016724 string characters out of 2786815
- 1913812 words of memory out of 3000000
- 71283 multiletter control sequences out of 15000+600000
- 489263 words of font info for 90 fonts, out of 8000000 for 9000
+ 50912 strings out of 475389
+ 1017929 string characters out of 2786815
+ 1916270 words of memory out of 3000000
+ 71353 multiletter control sequences out of 15000+600000
+ 489812 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,8n,133p,1183b,2041s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1095.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1440.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc1440.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on report.pdf (4 pages, 861579 bytes).
+ 86i,14n,133p,1183b,2041s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0800.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1095.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1440.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\isaia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc1440.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on report.pdf (9 pages, 1045357 bytes).
 PDF statistics:
- 506 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 608 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 288 words of extra memory for PDF output out of 10000 (max. 10000000)
 

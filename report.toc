@@ -2,10 +2,18 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Objetivos}{1}{section.1}%
 \contentsline {section}{\numberline {2}Fundamento teórico}{1}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Fomas de Electrización}{1}{subsection.2.1}%
-\contentsline {section}{\numberline {3}Equipos y Materiales}{1}{section.3}%
-\contentsline {section}{\numberline {4}Procedimiento Experimental}{1}{section.4}%
-\contentsline {section}{\numberline {5}Procedimiento de Datos Experimentados}{1}{section.5}%
-\contentsline {section}{\numberline {6}Conclusiones}{1}{section.6}%
-\contentsline {section}{Bibliografía}{2}{section.6}%
+\contentsline {subsection}{\numberline {2.1}Carga Eléctrica}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Fomas de Electrización}{2}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Por Frotamiento}{2}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Por Contacto}{2}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Por Inducción}{3}{subsubsection.2.2.3}%
+\contentsline {section}{\numberline {3}Equipos y Materiales}{3}{section.3}%
+\contentsline {section}{\numberline {4}Procedimiento Experimental}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Frotamiento}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Contacto}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Inducción}{4}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Polarización}{5}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Tabla de Comparación}{6}{section.5}%
+\contentsline {section}{\numberline {6}Conclusiones}{6}{section.6}%
+\contentsline {section}{Bibliografía}{7}{section.6}%
 \contentsfinish 
